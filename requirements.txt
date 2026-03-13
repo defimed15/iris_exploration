@@ -1,4 +1,5 @@
 altair==4.2.2
+imghdr
 scikit-learn
 pandas
 streamlit
