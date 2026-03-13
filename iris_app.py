@@ -38,7 +38,7 @@ def iris():
         input_df = user_input_features()
     # # img = Image.open("iris.JPG")
 
-    st.image("https://www.easytogrowbulbs.com/cdn/shop/products/BeardedIrisColorfullMix_VIS-sqWeb_8a293612-7bc0-4a9f-89ac-917e820d0ccb.jpg?v=1664472481&width=1920")
+    st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0qO-wiDR7whhGTkVWKnDzjXWeH82GWBJgmA&s")
 
     button_var = st.sidebar.button('Predict!')
 
